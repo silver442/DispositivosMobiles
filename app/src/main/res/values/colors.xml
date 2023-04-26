@@ -13,4 +13,7 @@
     <color name="fondo_boton">#0994DF</color>
     <color name="yellow">#F1AE06</color>
     <color name="red">#F13939</color>
+
+    <!--Colores de la app-->
+    <color name="background_app">#176585</color>
 </resources>
